@@ -1,8 +1,6 @@
 name: Algolia Search
 
-on:
-  schedule:
-    - cron: "0 18 * * *"
+on: [push]
 
 jobs:
   build:
