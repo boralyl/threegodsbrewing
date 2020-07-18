@@ -15,12 +15,28 @@ jobs:
       - name: Ruby Version
         run: ruby --version
 
+      - name: Cache Gemfile dependencies
+        uses: actions/cache@v1
+        id: cache
+        with:
+          path: /home/runner/work/threegodsbrewing/threegodsbrewing
+          key: gemfile-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            gemfile-${{ hashFiles('**/Gemfile.lock') }}
+
+      - name: Install Ruby dependencies
+        run: |
+          sudo apt-get -yqq install libpq-dev
+          gem install bundler
+
+      - name: Install Gemfile dependencies
+        run: |
+          bundle install --jobs 4 --retry 3
+        if: steps.cache.outputs.cache-hit != 'true'
+
       - name: Algolia Index
         env:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
         run: |
-          sudo apt-get -yqq install libpq-dev
-          gem install bundler
-          bundle install --jobs 4 --retry 3
           bundle exec jekyll build
           bundle exec jekyll algolia
