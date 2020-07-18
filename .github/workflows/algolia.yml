@@ -29,14 +29,10 @@ jobs:
           sudo apt-get -yqq install libpq-dev
           gem install bundler
 
-      - name: Install Gemfile dependencies
-        run: |
-          bundle install --jobs 4 --retry 3
-        if: steps.cache.outputs.cache-hit != 'true'
-
       - name: Algolia Index
         env:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
         run: |
+          bundle install --jobs 4 --retry 3
           bundle exec jekyll build
           bundle exec jekyll algolia
