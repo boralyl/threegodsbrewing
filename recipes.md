@@ -4,6 +4,6 @@ layout: collection
 permalink: /recipes/
 collection: recipes
 entries_layout: grid
+image:
+  path: /assets/images/recipes.png
 ---
-
-Sample document listing for the collection `_recipes`.
