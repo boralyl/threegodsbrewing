@@ -1,31 +1,52 @@
 ---
-title: "Built For Speed Clone"
+title: "Built For Speed Clone (American IPA | 21A)"
 image: /assets/images/gow-built-for-speed.jpg
 collection: recipies
 categories:
   - Recipies
 tags:
   - american ipa
+  - 21A
 ---
 
 My attempt at cloning the former Grains of Wrath Built For Speed IPA. The brewer describes this beer as:
 
 > Light, dry bodied west coast IPA with flavors and aromas of bright tropical fruit, pine and dank grapefruit. 6.7% ABV
 
+**Name**: Built for Speed Clone<br />
+**Style**: American IPA (21A)<br />
+**Type**: All Grain
+
+## Recipe Specifications
+
+**Boil Size**: 7.51 gal<br />
+**Batch Size (fermenter)**: 5.50 gal<br />
+**Estimated OG**: 1.059 SG<br />
+**Estimated Color**: 3.6 SRM<br />
+**Estimated IBU**: 32.16 (Tinseth)<br />
+**Estima.ed ABV**: 6.4 %<br />
+**Brewhouse Efficiency**: 72.0%<br />
+**Boil Time**: 60 minutes<br />
+
 ## Ingredients
 
-| Amt     | Name                                            | Type  | #   | %/IBU     | Volume   |
-| ------- | ----------------------------------------------- | ----- | --- | --------- | -------- |
-| 10 lbs  | Pelton Pilsner-style Malt (1.7 SRM)             | Grain | 1   | 76.9 %    | 0.78 gal |
-| 3 lbs   | Pale Malt (2 Row) US (2.0 SRM)                  | Grain | 2   | 23.1 %    | 0.23 gal |
-| 0.50 oz | Magnum [13.00 %] - Boil 60.0 min                | Hop   | 3   | 19.8 IBUs | -        |
-| 1.00 oz | Mosaic [11.70 %] - Boil 5.0 min                 | Hop   | 4   | 7.1 IBUs  | -        |
-| 1.00 oz | Simcoe [13.00 %] - Boil 5.0 min                 | Hop   | 5   | 7.9 IBUs  | -        |
-| 2.00 oz | Mosaic [11.70 %] - Steep/Whirlpool 20.0 min, 19 | Hop   | 6   | 21.6 IBUs | -        |
-| 2.00 oz | Simcoe [13.00 %] - Steep/Whirlpool 20.0 min, 19 | Hop   | 7   | 24.0 IBUs | -        |
-| 1.0 pkg | Flagship (Imperial #A07)                        | Yeast | 8   | -         | -        |
-| 1.00 oz | Mosaic [11.70 %] - Dry Hop 5.0 Days             | Hop   | 9   | 0.0 IBUs  | -        |
-| 1.00 oz | Simcoe [13.00 %] - Dry Hop 5.0 Days             | Hop   | 10  | 0.0 IBUs  | -        |
+| Amount  | Name                                      | Type  |
+| ------- | ----------------------------------------- | ----- |
+| 10 lbs  | Pelton Pilsner-style Malt                 | Grain |
+| 3 lbs   | Pale Malt (2 Row) US                      | Grain |
+| 0.50 oz | Chinook [13.0%] - Boil 60.0 min           | Hop   |
+| 1.00 oz | Mosaic [11.7%] - Boil 5.0 min             | Hop   |
+| 1.00 oz | Simcoe [13.0%] - Boil 5.0 min             | Hop   |
+| 2.00 oz | Mosaic [11.7%] - Steep/Whirlpoo. 20.0 min | Hop   |
+| 2.00 oz | Simcoe [13.0%] - Steep/Whirlpoo. 20.0 min | Hop   |
+| 1.00 oz | Mosaic [11.7%] - Dry Hop 60.0 min         | Hop   |
+| 1.00 oz | Simcoe [13.0%] - Dry Hop 60.0 min         | Hop   |
+| 1 pkg   | Flagship (Imperial#A07)                   | Yeast |
 
-Mash Schedule: Single Infusion, Light Body, Batch Sparge
-Total Grain Weight: 13 lbs
+## Mash
+
+**Mash Schedule**: Single Infusion, Light Body, Batch Sparge
+
+| Name    | Description                      | Step Temperature | Step Time |
+| ------- | -------------------------------- | ---------------- | --------- |
+| Mash In | Add 4.56 gal of water at 157.9 F | 148.0 F          | 75.0 mins |
