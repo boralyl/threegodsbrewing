@@ -71,4 +71,4 @@ grain bill and formulation based on the posted recipe.
 
 As expected, Pilsner is indeed the dominant malt. He also uses some pale wheat malt and
 some Munich malt. The posted mash temperature is 4F higher then what I used (148F vs 152F).
-He also recommends a 4:1 ratio of calcim sulfate to calcium chloride for the water profile.
+He also recommends a 4:1 ratio of calcium sulfate to calcium chloride for the water profile.
