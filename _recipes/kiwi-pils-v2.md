@@ -26,15 +26,15 @@ tags:
 
 ## Ingredients
 
-| Amount  | Name                                     | Type  |
-| ------- | ---------------------------------------- | ----- |
-| 10 lbs  | Pelton Pilsner-style Malt                | Grain |
-| 0.50 oz | Nelson Sauvin [12.0%] - Boil 60.0 min    | Hop   |
-| 1.00 oz | Nelson Sauvin [12.0%] - Boil 5.0 min     | Hop   |
-| 1.00 oz | Wakatu [4.7%] - Boil 5.0 min             | Hop   |
-| 1.00 oz | Wakatu [4.7%] - Dry Hop 60.0 min         | Hop   |
-| 0.50 oz | Nelson Sauvin [12.0%] - Dry Hop 60.0 min | Hop   |
-| 1 pkg   | Global (Imperial#L13)                    | Yeast |
+| Amount  | Name                                   | Type  |
+| ------- | -------------------------------------- | ----- |
+| 10 lbs  | Pelton Pilsner-style Malt              | Grain |
+| 0.50 oz | Nelson Sauvin [12.0%] - Boil 60.0 min  | Hop   |
+| 1.00 oz | Nelson Sauvin [12.0%] - Boil 5.0 min   | Hop   |
+| 1.00 oz | Wakatu [4.7%] - Boil 5.0 min           | Hop   |
+| 1.00 oz | Wakatu [4.7%] - Dry Hop 60.0 min       | Hop   |
+| 0.50 oz | Nelson Sauvin [12.0%] - Dry Hop 5 days | Hop   |
+| 1 pkg   | Global (Imperial#L13)                  | Yeast |
 
 ## Mash
 
