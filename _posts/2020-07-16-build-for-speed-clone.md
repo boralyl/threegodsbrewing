@@ -2,7 +2,7 @@
 title: "Built For Speed Clone"
 image: /assets/images/gow-built-for-speed.jpg
 categories:
-  - Recipies
+  - Recipes
 tags:
   - american ipa
 ---
