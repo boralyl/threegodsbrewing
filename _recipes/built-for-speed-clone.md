@@ -1,9 +1,9 @@
 ---
 title: "Built For Speed Clone (American IPA | 21A)"
 image: /assets/images/gow-built-for-speed.jpg
-collection: recipies
+collection: recipes
 categories:
-  - Recipies
+  - Recipes
 tags:
   - american ipa
   - 21A
