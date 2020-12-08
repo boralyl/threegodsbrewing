@@ -11,7 +11,7 @@ tags:
   - 21A
 ---
 
-I compared my homebrewed version to the commercial [Grains of Wrath](https://gowbeer.com) Built for Speed. I've
+I compared my [homebrewed](/recipes/built-for-speed-clone/) version to the commercial [Grains of Wrath](https://gowbeer.com) Built for Speed. I've
 outlined my notes in this post.
 
 In the header image above you can see my cloned version (left)
