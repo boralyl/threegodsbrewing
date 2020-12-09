@@ -12,7 +12,7 @@ $ sudo apt install ruby ruby-dev
 
 Next install the `gitub-pages` and `bundler`.
 
-````bash
+```bash
 $ sudo gem install github-pages bundler
 ```
 
@@ -33,4 +33,3 @@ $ bundle exec jekyll serve --incremental --drafts --watch --future
 ```bash
 $ bundle update
 ```
-````
