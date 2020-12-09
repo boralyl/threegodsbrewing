@@ -1,6 +1,6 @@
 ---
 title: "Built For Speed Clone Side By Side Comparison"
-image: /assets/images/gow-built-for-speed-side-by-side.jpg
+image: /assets/images/posts/gow-built-for-speed-side-by-side.jpg
 collection: tasting
 layout: post
 sub_title: Pretty close!
@@ -10,6 +10,8 @@ tags:
   - american ipa
   - 21A
 ---
+
+> Recipe for this post can be found [here](/recipes/built-for-speed-clone/).
 
 I compared my [homebrewed](/recipes/built-for-speed-clone/) version to the commercial [Grains of Wrath](https://gowbeer.com) Built for Speed. I've
 outlined my notes in this post.

@@ -1,6 +1,9 @@
 ---
 title: "Built For Me V1 (American IPA | 21A)"
-image: /assets/images/built-for-me-v1-hero.jpg
+image:
+  path: /assets/images/recipes/built-for-me-v1-hero.jpg
+  thumbnail: /assets/images/recipes/built-for-me-v1-thumb.jpg
+  caption: Built For Me V1
 collection: recipes
 categories:
   - Recipes

@@ -1,6 +1,8 @@
 ---
 title: "Kiwi Pils V2 (New Zealand Pilsner | 5X)"
-image: /assets/images/kiwi-pils-v2.jpg
+image:
+  path: /assets/images/recipes/kiwi-pils-v2-hero.jpg
+  thumbnail: /assets/images/recipes/kiwi-pils-v2-thumb.jpg
 collection: recipes
 categories:
   - Recipes

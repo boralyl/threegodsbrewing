@@ -3,8 +3,6 @@ title: Recipes
 layout: collection
 permalink: /recipes/
 collection: recipes
-entries_layout: list
+entries_layout: grid
 sort: date
-image:
-  path: /assets/images/recipes.png
 ---

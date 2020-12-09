@@ -35,4 +35,5 @@ google_fonts:
 
 navigation_pages:
   - recipes.md
+  - categories.md
   - tags.md
