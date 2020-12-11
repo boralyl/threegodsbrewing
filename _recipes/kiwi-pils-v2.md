@@ -7,8 +7,7 @@ collection: recipes
 categories:
   - Recipes
 tags:
-  - new zealand pilsner
-  - 5X
+  - New Zealand Pilsner
 ---
 
 **Name**: Kiwi Pils v2<br />

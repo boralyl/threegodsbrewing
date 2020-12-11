@@ -8,8 +8,7 @@ collection: recipes
 categories:
   - Recipes
 tags:
-  - american ipa
-  - 21A
+  - American IPA
 ---
 
 My attempt at cloning the former Grains of Wrath Built For Speed IPA. The brewer describes this beer as:

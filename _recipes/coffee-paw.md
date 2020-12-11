@@ -4,8 +4,7 @@ collection: recipes
 categories:
   - Recipes
 tags:
-  - oatmeal stout
-  - 16B
+  - Oatmeal Stout
 ---
 
 **Name**: Coffee Vanilla Oatmeal Stout (Coffee Paw)<br />

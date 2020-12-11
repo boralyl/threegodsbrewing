@@ -7,8 +7,7 @@ collection: recipes
 categories:
   - Recipes
 tags:
-  - specialty ipa
-  - 21B
+  - New England IPA
 ---
 
 **Name**: Long Winded Pineapple (Hazy IPA)<br />
