@@ -7,17 +7,16 @@ sub_title: Pretty close!
 categories:
   - Tasting
 tags:
-  - american ipa
-  - 21A
+  - American IPA
 ---
-
-> Recipe for this post can be found [here](/recipes/built-for-speed-clone/).
 
 I compared my [homebrewed](/recipes/built-for-speed-clone/) version to the commercial [Grains of Wrath](https://gowbeer.com) Built for Speed. I've
 outlined my notes in this post.
 
 In the header image above you can see my cloned version (left)
 and the commercial version (right).
+
+> Recipe for this post can be found [here](/recipes/built-for-speed-clone/).
 
 # Stats
 

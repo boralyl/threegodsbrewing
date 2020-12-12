@@ -33,3 +33,10 @@ $ bundle exec jekyll serve --incremental --drafts --watch --future
 ```bash
 $ bundle update
 ```
+
+## Images
+
+Recommended image sizes for posts and recipes:
+
+- Hero - 1600 x 650 px
+- Thumb - 400 x 200 px
