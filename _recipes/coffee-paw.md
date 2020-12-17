@@ -1,5 +1,8 @@
 ---
 title: "Coffee Vanilla Oatmeal Stout (Coffee Paw) (Oatmeal Stout | 16B)"
+image:
+  path: /assets/images/recipes/coffee-paw-hero.jpg
+  thumbnail: /assets/images/recipes/coffee-paw-thumb.jpg
 collection: recipes
 categories:
   - Recipes
