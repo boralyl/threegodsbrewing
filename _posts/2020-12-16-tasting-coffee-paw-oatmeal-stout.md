@@ -23,6 +23,8 @@ used a single vanilla bean that was slit open with it's contents scraped into th
 fermenter post fermentation. I also threw in the outer shell of the bean and let it sit
 for 4 days before kegging.
 
+> Recipe for this post can be found [here](/recipes/coffee-paw/).
+
 # Appearance
 
 The beer pours a nice tan head that dissipates pretty quickly (this may be caused by the
