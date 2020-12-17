@@ -1,6 +1,8 @@
 ---
 title: "BRU-1 West Coast IPA - Tasting"
-image: /assets/images/recipes/bru-1-west-coast-ipa-hero.jpg
+image:
+  path: /assets/images/recipes/bru-1-west-coast-ipa-hero.jpg
+  thumbnail: /assets/images/recipes/bru-1-west-coast-ipa-thumb.jpg
 collection: tasting
 layout: post
 categories:

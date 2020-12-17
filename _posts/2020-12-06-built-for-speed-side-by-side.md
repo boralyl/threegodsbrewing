@@ -1,6 +1,8 @@
 ---
 title: "Built For Speed Clone Side By Side Comparison"
-image: /assets/images/posts/gow-built-for-speed-side-by-side.jpg
+image:
+  path: /assets/images/posts/gow-built-for-speed-side-by-side-hero.jpg
+  thumbnail: /assets/images/posts/gow-built-for-speed-side-by-side-thumb.jpg
 collection: tasting
 layout: post
 sub_title: Pretty close!
