@@ -24,7 +24,7 @@ during the mash, [among many other methods](https://www.google.com/search?client
 
 <figure class="align-right">
   <a href="/assets/images/posts/dry-beaning.jpg">
-    <img src="/assets/images/posts/dry-beaning-thumb.jpg" alt="Dry hopping with whole beans">
+    <img src="/assets/images/posts/dry-beaning-thumb.jpg" alt="Dry hopping with whole beans" />
   </a>
   <figcaption>Dry hopping with whole beans.</figcaption>
 </figure>
