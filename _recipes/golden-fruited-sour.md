@@ -14,6 +14,9 @@ This recipe is the base receipe I use for all of my fruited sour beers. It's ess
 an American Blonde Ale with Belgian and Lambic Blend yeast. It's very simple and works
 well to showcase fruit.
 
+Typically this beer is aged for a year, than an additional 3 months on fruit before
+being bottled and conditioned.
+
 **Name**: Golden Fruited Sour<br />
 **Style**: Blonde Ale (18A)<br />
 **Type**: All Grain
