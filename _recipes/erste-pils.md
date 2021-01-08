@@ -10,6 +10,8 @@ tags:
   - German Pils
 ---
 
+A simple German-style Pilsner.
+
 **Name**: Erste Pils<br />
 **Style**: German Pils (5D)<br />
 **Type**: All Grain
