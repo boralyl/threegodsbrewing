@@ -32,7 +32,7 @@ tags:
 |10 lbs|Gateway : Under-Modified, Wind Malt (Mecca Grade)|Grain|100.0%|
 |0.50 oz|Nelson Sauvin [12.0%] - Boil 60.0 min|Hop|-|
 |1.00 oz|Motueka [7.0%] - Boil 5.0 min|Hop|-|
-|1.00 oz|Wakatu [4.7%] - Boil 5.0 min|Hop|-|
+|1.00 oz|Nelson Sauvin [12.0%] - Boil 5.0 min|Hop|-|
 |1.00 oz|Motueka [7.0%] - Dry Hop 60.0 min|Hop|-|
 |0.50 oz|Nelson Sauvin [12.0%] - Dry Hop 60.0 min|Hop|-|
 |1 pkg|Global (Imperial Yeast#L13)|Yeast|-|
