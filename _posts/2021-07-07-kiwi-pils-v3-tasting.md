@@ -35,7 +35,7 @@ batches.
 
 # Taste/Mouthfeel
 
-The beer has a vibrant, medium-high carbonation.  It's more or less perfect for this style.
+The beer has a vibrant, medium-high carbonation. It's more or less perfect for this style.
 As in the aroma, the fresh cut hay flavor dominates the front of the taste, but the New
 Zeland hops shine from the middle and through the finish. It finishes on the dry side
 since the original gravity hit 1.004.
@@ -44,12 +44,12 @@ since the original gravity hit 1.004.
 
 This was my first time deviating from using the Mecca Grade Estate Pelton Pilsner malt.
 I had to switch due to unavailability of that malt and gave the Gateway (Under-Modified
-Wind Malt) a try.  From Mecca Grade Estate's website:
+Wind Malt) a try. From Mecca Grade Estate's website:
 
 > “Wind-malt” is a long-forgotten style of Belgian malt that was allowed to air-dry in the lofts of barns. To our knowledge, it has never been produced commercially in North America. We’ve revived it with “Gateway,” a malt that is bursting with the aroma of fresh-cut hay while being nearly translucent in color. Gateway is perfectly-suited for decoctions, step mashing, and is the missing ingredient when brewing historic styles of beer. (Color: 1.2 SRM, PPG: 38)
 
-As the description eludes, the color is really light, nearly translucent. The flavor is
-not bad, but it overshines the hops a bit.  Going forward I probably wouldn't use this
+As the description suggests, the color is really light, nearly translucent. The flavor is
+not bad, but it overshines the hops a bit. Going forward I probably wouldn't use this
 malt again for a [New Zealand Pislner](/recipes/#new-zealand-pilsner), but would absolutely
 try it out on a German Pilsner. This beer will be gladly consumed, but as of writing this
 is my least favorite of my three batches I've produced.
