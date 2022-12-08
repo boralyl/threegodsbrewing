@@ -7,22 +7,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-ruby@v1
+      - uses: actions/checkout@v3
+      - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "2.6"
+          ruby-version: "3.0"
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: Ruby Version
         run: ruby --version
 
-      - name: Cache Gemfile dependencies
-        uses: actions/cache@v1
-        id: cache
-        with:
-          path: /home/runner/work/threegodsbrewing/threegodsbrewing
-          key: gemfile-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            gemfile-${{ hashFiles('**/Gemfile.lock') }}
+      #- name: Cache Gemfile dependencies
+      #  uses: actions/cache@v1
+      #  id: cache
+      #  with:
+      #    path: /home/runner/work/threegodsbrewing/threegodsbrewing
+      #    key: gemfile-${{ hashFiles('**/Gemfile.lock') }}
+      #    restore-keys: |
+      #      gemfile-${{ hashFiles('**/Gemfile.lock') }}
 
       - name: Install Ruby dependencies
         run: |
