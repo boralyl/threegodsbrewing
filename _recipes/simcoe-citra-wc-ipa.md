@@ -1,6 +1,9 @@
 ---
 title: "Simcoe / Citra West Coast IPA (Kool Aid Kitty) (American IPA | 21A)"
 collection: recipes
+image:
+  path: assets/images/recipes/simcoe-citra-wc-ipa-hero.jpg
+  thumbnail: assets/images/recipes/simcoe-citra-wc-ipa-thumb.jpg
 categories:
   - Recipes
 tags:
