@@ -12,7 +12,7 @@ tags:
 ---
 
 This West Coast IPA uses the classic Citra / Simcoe hop combination along with my normal
-malt bill of ~75% Pilsner and 25% Pale Malt.
+malt bill of ~75% Pilsner and ~25% Pale Malt.
 
 > Recipe for this post can be found [here](/recipes/simcoe-citra-wc-ipa/).
 
