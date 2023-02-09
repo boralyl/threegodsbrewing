@@ -9,8 +9,9 @@ categories:
   - Feature
 tags:
   - Sour Beer
-  - Wild Ales
+  - American Wild Ale
   - Blonde Ale
+  - Solera Project
 ---
 
 <figure class="align-right">
