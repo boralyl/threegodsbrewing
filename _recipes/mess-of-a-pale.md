@@ -60,3 +60,5 @@ A West Coast IPA with Simcoe, Idaho 7, Mosaic and Chinook hops.
 - Began cold crashing. Connected co2 to carb stone with about 3psi of pressure to prevent a vacuum. Blow off still open and attached to tube. (2023-07-21)
 - Dumped the trub/yeast after ~48hrs of cold crashing. Then set the CO2 to 20psi connected to the carb stone. Forgot to adjust the racking arm in a more upward direction before turning on CO2. I then decided to not burst carb and drop it down to ~15psi (2023-07-23)
 - Transferred the carbed beer to a keg that had the 4oz of dry hops inside it. Then put it in the kegerator at 12 PSI. (2023-07-24)
+
+Brewfather: [https://web.brewfather.app/share/aiB9ZHboRvaPAQ](https://web.brewfather.app/share/aiB9ZHboRvaPAQ)
