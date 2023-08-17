@@ -27,22 +27,33 @@ A West Coast IPA with Simcoe, Idaho 7, Mosaic and Chinook hops.
 **Brewhouse Efficiency**: 72%<br />
 **Boil Time**: 60 minutes<br />
 
+## Recipe Specifications
+
+**Boil Size**: 7.8 gal (29.4L)<br />
+**Batch Size (fermenter)**: 6.0 gal (22.7L)<br />
+**Estimated OG**: 1.06<br />
+**Estimated Color**: 3.8 SRM<br />
+**Estimated IBU**: 83.6 (tinseth)<br />
+**Estima.ed ABV**: 6.0%<br />
+**Brewhouse Efficiency**: 72%<br />
+**Boil Time**: 60 minutes<br />
+
 ## Ingredients
 
-| Amount            | Name                                              | Type        | %      |
-| ----------------- | ------------------------------------------------- | ----------- | ------ |
-| 10.0 lbs (5 kgs)  | Lamonta : Pale American Barley Malt (Mecca Grade) | Grain       | 71.43% |
-| 4.0 lbs (2 kgs)   | Gold Rush Pale 2-Row Malt                         | Grain       | 28.57% |
-| 1.0 oz (28 grams) | Chinook [13%] - Boil 60 min                       | Hop         | -      |
-| 1.0 oz (28 grams) | Idaho 7 (LUPOMAX) [20%] - Boil 5 min              | Hop         | -      |
-| 1.0 oz (28 grams) | Simcoe [13.9%] - Boil 5 min                       | Hop         | -      |
-| 2.0 oz (57 grams) | Mosaic [13.1%] - Aroma 20 days                    | Hop         | -      |
-| 1.0 oz (28 grams) | Idaho 7 (LUPOMAX) [20%] - Aroma 20 days           | Hop         | -      |
-| 1.0 oz (28 grams) | Simcoe [13.9%] - Aroma 20 days                    | Hop         | -      |
-| 2.0 oz (57 grams) | Idaho 7 (LUPOMAX) [20%] - Dry Hop 3 days          | Hop         | -      |
-| 2.0 oz (57 grams) | Simcoe [12.8%] - Dry Hop 3 days                   | Hop         | -      |
-| 1 pkg             | Flagship (Imperial Yeast #A07)                    | Yeast       | -      |
-| 1 tbsp            | PH 5.2 Stabilizer (Mash)                          | Water Agent | -      |
+| Amount            | Name                                     | Type        | %      |
+| ----------------- | ---------------------------------------- | ----------- | ------ |
+| 10.0 lbs (5 kgs)  | Pelton Pilsner-style Malt                | Grain       | 71.43% |
+| 4.0 lbs (2 kgs)   | Gold Rush Pale 2-Row Malt                | Grain       | 28.57% |
+| 1.0 oz (28 grams) | Chinook [13%] - Boil 60 min              | Hop         | -      |
+| 1.0 oz (28 grams) | Idaho 7 (LUPOMAX) [20%] - Boil 5 min     | Hop         | -      |
+| 1.0 oz (28 grams) | Simcoe [13.9%] - Boil 5 min              | Hop         | -      |
+| 2.0 oz (57 grams) | Mosaic [13.1%] - Aroma 20 days           | Hop         | -      |
+| 1.0 oz (28 grams) | Idaho 7 (LUPOMAX) [20%] - Aroma 20 days  | Hop         | -      |
+| 1.0 oz (28 grams) | Simcoe [13.9%] - Aroma 20 days           | Hop         | -      |
+| 2.0 oz (57 grams) | Idaho 7 (LUPOMAX) [20%] - Dry Hop 3 days | Hop         | -      |
+| 2.0 oz (57 grams) | Simcoe [12.8%] - Dry Hop 3 days          | Hop         | -      |
+| 1 pkg             | Flagship (Imperial Yeast #A07)           | Yeast       | -      |
+| 1 tbsp            | PH 5.2 Stabilizer (Mash)                 | Water Agent | -      |
 
 ## Mash
 
