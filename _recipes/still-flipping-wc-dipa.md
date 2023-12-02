@@ -1,6 +1,9 @@
 ---
 title: "Still Flipping (WC DIPA) (Double IPA | 22A)"
 collection: recipes
+image:
+  path: assets/images/recipes/still-flipping-wc-dipa-hero.jpg
+  thumbnail: assets/images/recipes/still-flipping-wc-dipa-thumb.jpg
 categories:
   - Recipes
 tags:
