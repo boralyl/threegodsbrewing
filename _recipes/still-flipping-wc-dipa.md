@@ -9,7 +9,7 @@ tags:
 
 A West Coast Double IPA brewed with Idaho 7 (LUPOMAX), Citra (LUPOMAX) and Columbus (LUPOMAX).
 
-**Name**: 40th Life Anniversary (WC DIPA)<br />
+**Name**: Still Flipping (WC DIPA)<br />
 **Style**: Double IPA (22A)<br />
 **Type**: All Grain
 
