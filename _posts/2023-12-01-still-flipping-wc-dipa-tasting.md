@@ -1,5 +1,5 @@
 ---
-title: "Still Flipping (WC DIPA) (Double IPA | 22A)"
+title: "Still Flipping (WC DIPA) (Double IPA | 22A) - Tasting"
 collection: tasting
 image:
   path: assets/images/recipes/still-flipping-wc-dipa-hero.jpg
