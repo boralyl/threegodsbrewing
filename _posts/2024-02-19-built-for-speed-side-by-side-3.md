@@ -34,7 +34,7 @@ upgrades since the previous iteration. Starting with the recipe:
 - Dropped the pale wheat that I had added in V2 and went back to the malt bill of V1.
 - Changed mash rest temperature from 152F -> 149F.
 - In addition to Mosaic and Simcoe, I also added Columbus and Strata. I also adjusted the hop additions to spread out each hop evenly in the boil and dry hop.
-- I used the Hoppy water profile in brewfather which resulted in the additions of some slats to my tap water.
+- I used the Hoppy water profile in brewfather which resulted in the additions of some salts to my tap water.
 
 Since my previous batch I've made 2 equipment upgrades that may have had some impact on
 the finished product.
@@ -83,7 +83,7 @@ more of the dank/diesel flavors I picked up in the aroma. The citrus flavor show
 the finish along with a pleasant bitterness.
 
 The homebrewed version was a little brighter in flavor with more citrus than the dank/diesel
-flavors. It is also incredibly crisp and refreshing with a plasant bitterness.
+flavors. It is also incredibly crisp and refreshing with a pleasant bitterness.
 
 Similar to the aroma, as these beers both warmed up the taste differences became less
 apparent although not as much as the aroma. The biggest difference is the commercial version was a little more complex
@@ -93,6 +93,6 @@ consistent throughout the taste.
 # Changes for next time
 
 I ended up really liking the cloned version a lot. I think if I had to make changes in
-order to arrive at a more similar product to the commercial version I'd probably only
+order to arrive at a more similar product to the commercial version, I'd probably only
 modify the hops schedule. I think I'd use a little more Strata as late additions and
 cut back a little on the Mosaic hops.
