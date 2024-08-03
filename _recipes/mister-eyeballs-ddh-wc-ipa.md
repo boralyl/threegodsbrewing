@@ -42,9 +42,9 @@ A double dry hopped west coast IPA with Citra, Nelson Sauvin and LUPOMAX Idaho 7
 | 1.0 oz (28 grams) | Citra [12.9%] - Dry Hop 5 days                    | Hop         | -   |
 | 1.0 oz (28 grams) | Idaho 7 (LUPOMAX) [20%] - Dry Hop 5 days          | Hop         | -   |
 | 1.0 oz (28 grams) | Nelson Sauvin [12%] - Dry Hop 5 days              | Hop         | -   |
-| 1.0 oz (28 grams) | Citra [12.9%] - Dry Hop 60 days                   | Hop         | -   |
-| 1.0 oz (28 grams) | Idaho 7 (LUPOMAX) [20%] - Dry Hop 60 days         | Hop         | -   |
-| 1.0 oz (28 grams) | Nelson Sauvin [12%] - Dry Hop 60 days             | Hop         | -   |
+| 1.0 oz (28 grams) | Citra [12.9%] - Dry Hop (in keg)                  | Hop         | -   |
+| 1.0 oz (28 grams) | Idaho 7 (LUPOMAX) [20%] - Dry Hop (in keg)        | Hop         | -   |
+| 1.0 oz (28 grams) | Nelson Sauvin [12%] - Dry Hop (in keg)            | Hop         | -   |
 | 1 pkg             | Flagship (Imperial Yeast #A07)                    | Yeast       | -   |
 | 3 g               | Calcium Chloride (CaCl2) (Mash)                   | Water Agent | -   |
 | 5.3 g             | Epsom Salt (MgSO4) (Mash)                         | Water Agent | -   |
