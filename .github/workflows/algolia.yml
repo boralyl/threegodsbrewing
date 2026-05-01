@@ -7,33 +7,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.1"
+          ruby-version: "3.3"
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-
-      - name: Ruby Version
-        run: ruby --version
-
-      #- name: Cache Gemfile dependencies
-      #  uses: actions/cache@v1
-      #  id: cache
-      #  with:
-      #    path: /home/runner/work/threegodsbrewing/threegodsbrewing
-      #    key: gemfile-${{ hashFiles('**/Gemfile.lock') }}
-      #    restore-keys: |
-      #      gemfile-${{ hashFiles('**/Gemfile.lock') }}
-
-      - name: Install Ruby dependencies
-        run: |
-          sudo apt-get -yqq install libpq-dev
-          gem install bundler
 
       - name: Algolia Index
         env:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
         run: |
-          bundle install --jobs 4 --retry 3
           bundle exec jekyll build
           bundle exec jekyll algolia
