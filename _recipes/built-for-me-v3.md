@@ -60,6 +60,10 @@ My 3rd version of [Grains of Wrath](https://gowbeer.com/) - Built for Speed IPA 
 | Mash In | Add 8.1 gal (30 L) of water at 155.8&deg;F (68.8&deg;C) | 149.0&deg;F (65&deg;C) | 60 mins   |
 | Sparge  | Add 0.0 gal (0L) water at 169&deg;F (75&deg;C)          | -                      | -         |
 
+## Fermentation Profile
+
+* Primary - 68F (10 days)
+
 ## Notes
 
 - Poured grain in slow and stirred after each amount was added. Did this about 5 times until all the grain was added. At 30 minutes into the mash I gave it a stir. (2024-01-27)

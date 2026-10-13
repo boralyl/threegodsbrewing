@@ -61,6 +61,10 @@ A West Coast IPA with Nectaron, Galaxy, Nelson Sauvin (Cryo) and Abstrax Omni Ga
 |Mash In|Add 8.1 gal (30 L) of water at 155.8&deg;F (68.8&deg;C)|149.0&deg;F (65&deg;C)|60 mins|
 |Sparge|Add 0.0 gal (0L) water at 169&deg;F (75&deg;C)|-|-|
 
+## Fermentation Profile
+
+* Primary - 66F (10 days)
+
 ## Notes
 
 * Added yeast and aldc at 66f (2025-11-08)

@@ -59,6 +59,10 @@ A West Coast IPA with Citra, Mosaic, Mosaic Lupomax, and Riwaka Cryo hops.
 | Mash In | Add 8.1 gal (30 L) of water at 155.8&deg;F (68.8&deg;C) | 149.0&deg;F (65&deg;C) | 60 mins   |
 | Sparge  | Add 0.0 gal (0L) water at 169&deg;F (75&deg;C)          | -                      | -         |
 
+## Fermentation Profile
+
+* Primary - 66F (10 days)
+
 ## Notes
 
 - Measured out the salts and the mash water the night before. Began brew day by adding 3G of saniclean and turned on the pump and opened the recirc and whirlpool valves for 5-10 mins. I then heated the water to the strike temp of 156F. I slowly added the grains and stirred and used the drill whisk to ensure there were no dough balls. Mash began around 8:30am. (2025-03-28)

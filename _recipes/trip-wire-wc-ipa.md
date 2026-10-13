@@ -53,6 +53,10 @@ A west coast IPA with AU Galaxy and Vic Secret hops.
 | Mash In | Add 8.1 gal (31 L) of water at 156.2&deg;F (69&deg;C) | 149.0&deg;F (65&deg;C) | 60 mins   |
 | Sparge  | Add 0.0 gal (0L) water at 169&deg;F (75&deg;C)        | -                      | -         |
 
+## Fermentation Profile
+
+* Primary - 68F (10 days)
+
 ## Notes
 
 - Started boil at 100% then dialed it down to 80% to get a good rolling boil. Extended boil to 75 minutes due to lower gravity. (2023-12-22)

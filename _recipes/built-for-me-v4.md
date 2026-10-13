@@ -65,6 +65,10 @@ me with recipe notes which I scaled down and adapted to my brewing system.
 | Mash In | Add 8.5 gal (32 L) of water at 158.4&deg;F (70.2&deg;C) | 152.0&deg;F (66.666667&deg;C) | 60 mins   |
 | Sparge  | Add 0.0 gal (0L) water at 169&deg;F (75&deg;C)          | -                             | -         |
 
+## Fermentation Profile
+
+* Primary - 68F (10 days)
+
 ## Notes
 
 - Began Brew day by running 3G of saniclean through the pump for 5 minutes.

@@ -59,6 +59,10 @@ A West Coast IPA with Citra, Citra Lupomax, Nectaron and Simcoe Cryo.
 | Mash In | Add 8.3 gal (31 L) of water at 155.5&deg;F (68.6&deg;C) | 149.0&deg;F (65&deg;C) | 60 mins   |
 | Sparge  | Add 0.0 gal (0L) water at 169&deg;F (75&deg;C)          | -                      | -         |
 
+## Fermentation Profile
+
+* Primary - 66F (10 days)
+
 ## Notes
 
 - Began brew day around 9am. Water and minerals were measured out the night before.

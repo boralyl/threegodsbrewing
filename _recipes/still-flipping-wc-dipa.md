@@ -56,6 +56,10 @@ A West Coast Double IPA brewed with Idaho 7 (LUPOMAX), Citra (LUPOMAX) and Colum
 | Mash In | Add 5.5 gal (21 L) of water at 161.1&deg;F (71.7&deg;C) | 149.0&deg;F (65&deg;C) | 60 mins   |
 | Sparge  | Add 3.6 gal (13.6L) water at 169&deg;F (75&deg;C)       | -                      | -         |
 
+## Fermentation Profile
+
+* Primary - 68F (10 days)
+
 ## Notes
 
 - Pre boil volume ended up being a little greater than estimated and gravity is low so am going to do a longer boil (2023-10-07)

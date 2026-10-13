@@ -56,6 +56,10 @@ A West Coast IPA with Cryo Columbus, Simcoe and Cryo Citra.
 |Mash In|Add 5.5 gal (21 L) of water at 161.1&deg;F (71.7&deg;C)|149.0&deg;F (65&deg;C)|60 mins|
 |Sparge|Add 3.6 gal (13.5L) water at 169&deg;F (75&deg;C)|-|-|
 
+## Fermentation Profile
+
+* Primary - 68F (10 days)
+
 ## Notes
 
 * Added the dry hops when the beer was at 1.014 (2023-09-05)

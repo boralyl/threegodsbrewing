@@ -62,6 +62,12 @@ A West Coast IPA with Mosaic, Mosaic LUPOMAX, [Abstrax Omni Mosaic (extract)](ht
 |Mash In|Add 8.1 gal (30 L) of water at 155.8&deg;F (68.8&deg;C)|149.0&deg;F (65&deg;C)|60 mins|
 |Sparge|Add 0.0 gal (0L) water at 169&deg;F (75&deg;C)|-|-|
 
+## Fermentation Profile
+
+* Primary - 60F (3 days)
+* Primary - 62F (7 days)
+* Primary - 65F (2 days)
+
 ## Notes
 
 * Boil has begun with about 7.3g @1.060 (2026-03-27)

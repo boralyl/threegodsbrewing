@@ -61,6 +61,10 @@ A double dry hopped west coast IPA with Citra, Nelson Sauvin and LUPOMAX Idaho 7
 | Mash In | Add 8.1 gal (30 L) of water at 155.8&deg;F (68.8&deg;C) | 149.0&deg;F (65&deg;C) | 60 mins   |
 | Sparge  | Add 0.0 gal (0L) water at 169&deg;F (75&deg;C)          | -                      | -         |
 
+## Fermentation Profile
+
+* Primary - 68F (10 days)
+
 ## Notes
 
 - Milled using the new Spike Mill at gap setting ~34 (2024-07-13)
