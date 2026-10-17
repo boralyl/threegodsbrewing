@@ -26,7 +26,7 @@ me with recipe notes which I scaled down and adapted to my brewing system.
 **Estimated OG**: 1.062<br />
 **Estimated Color**: 4.3 SRM<br />
 **Estimated IBU**: 94.9 (tinseth)<br />
-**Estima.ed ABV**: 6.4%<br />
+**Estimated ABV**: 6.4%<br />
 **Brewhouse Efficiency**: 66%<br />
 **Boil Time**: 90 minutes<br />
 
@@ -43,9 +43,9 @@ me with recipe notes which I scaled down and adapted to my brewing system.
 | 0.3 oz (9 grams)   | Columbus (LUPOMAX) [20.5%] - Boil 60 min   | Hop         | -      |
 | 0.2 oz (7 grams)   | Mosaic [13.1%] - Boil 20 min               | Hop         | -      |
 | 0.2 oz (7 grams)   | Simcoe [12.8%] - Boil 20 min               | Hop         | -      |
-| 1.2 oz (35 grams)  | Mosaic [13.1%] - Aroma 20 days             | Hop         | -      |
-| 1.2 oz (35 grams)  | Mosaic [13.1%] - Aroma 20 days             | Hop         | -      |
-| 1.0 oz (28 grams)  | Columbus (LUPOMAX) [20.5%] - Aroma 20 days | Hop         | -      |
+| 1.2 oz (35 grams)  | Mosaic [13.1%] - Aroma 20 min @ 180&deg;F             | Hop         | -      |
+| 1.2 oz (35 grams)  | Mosaic [13.1%] - Aroma 20 min @ 180&deg;F             | Hop         | -      |
+| 1.0 oz (28 grams)  | Columbus (LUPOMAX) [20.5%] - Aroma 20 min @ 180&deg;F | Hop         | -      |
 | 4.0 oz (113 grams) | Mosaic [13.1%] - Dry Hop 5 days            | Hop         | -      |
 | 4.0 oz (113 grams) | Simcoe [12.8%] - Dry Hop 5 days            | Hop         | -      |
 | 2.0 oz (57 grams)  | HBC 586 [17%] - Dry Hop 5 days             | Hop         | -      |
