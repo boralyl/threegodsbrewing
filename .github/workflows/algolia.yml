@@ -13,9 +13,13 @@ jobs:
           ruby-version: "3.3"
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
+      - name: Build site
+        run: bundle exec jekyll build
+
+      # Only index the live site. Branch pushes (including Dependabot PRs)
+      # just verify the build; Dependabot runs don't get Actions secrets anyway.
       - name: Algolia Index
+        if: github.ref == 'refs/heads/master'
         env:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
-        run: |
-          bundle exec jekyll build
-          bundle exec jekyll algolia
+        run: bundle exec jekyll algolia
